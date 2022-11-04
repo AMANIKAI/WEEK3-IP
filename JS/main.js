@@ -1,3 +1,4 @@
+$(document).ready(function () {
 const quizAnswers = document.querySelectorAll(".ouranswers");
 
 const submitAnswer = document.querySelector("#submit_ans");
@@ -34,4 +35,5 @@ submitAnswer.addEventListener("click", function (event) {
 
     alert("your score is " + score + "%");
 
+});
 });
