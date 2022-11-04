@@ -33,7 +33,22 @@ submitAnswer.addEventListener("click", function (event) {
 
     let score = (marks / total) * 100;
 
-    alert("your score is " + score + "%");
+    let level = "";
+
+
+    if (score > 80){
+        level += "Welldone Passed";
+    }
+
+    else if(score >= 50 && score >= 80 ){
+        level += "Good performance";
+    }
+
+    else{
+        level += "\nPoor performance, Please retake test.";
+
+    }
+    alama.textContent = "You have scored: " + score +"%"+level ;
 
 });
 });
