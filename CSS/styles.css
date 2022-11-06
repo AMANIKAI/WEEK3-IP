@@ -3,9 +3,12 @@ body{
     font-style: normal;
     font-family: sans-serif;
     
+    
 }
-
-
+h1{
+    text-align: center;
+    color: blue;
+}
 img{
    margin-left: 5mm;
    padding: 1%;
