@@ -35,7 +35,7 @@ finishButton.addEventListener("click", function (e) {
         comments += "This is good! You have scored " + percentageScore + "%";
     }
     else {
-        comments += "Poorly Done ull up your socks! You have scored " + percentageScore + "%";
+        comments += "Poor! pull up your socks! You have scored " + percentageScore + "%";
     }
     scoreMessage.innerHTML = comments;
     score = 0;
