@@ -2,7 +2,7 @@
 
 ## AMANI'S QUIZ BOARD
 
-### AMANI CODEACADEMY is conducting an assessment for its Software Engineering students who have just completed the Javascript module to assess their understanding of the concepts leardned so far in the course from the start up to now, this includes HTML, CSS, Javascript, and jQuery.
+### AMANI CODE ACADEMY is conducting an assessment for its Software Engineering students who have just completed the Javascript module to assess their understanding of the concepts leardned so far in the course from the start up to now, this includes HTML, CSS, Javascript, and jQuery.
 
 #### This application is aa assessment quiz for the coding class that has just completed learning javascript, 
 
